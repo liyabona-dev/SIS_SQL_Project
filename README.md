@@ -60,10 +60,11 @@ This project is useful for:
 
 **Liyabona Okuhle Mafusini**  
 Aspiring Junior DBA | Johannesburg, South Africa  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
+GitHub: [github.com/liyabona-dev](https://github.com/liyabona-dev)
 
 ---
 
 ## 🪪 License
 
 This project is open source and free to use for educational or professional purposes.
+
